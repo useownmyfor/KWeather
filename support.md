@@ -4,7 +4,7 @@ Thank you for using **KWeather**.
 
 If you have any questions, find a bug, or would like to suggest a new feature, I'd love to hear from you.
 
-**Email: **
+**Email:**
 [useownmyfor@gmail.com](mailto:useownmyfor@gmail.com)
 
 ## Frequently Asked Questions
