@@ -16,6 +16,6 @@ If you have any questions, find a bug, or would like to suggest a new feature, I
 
 ## Privacy Policy
 
-Please read the Privacy Policy here:
+Please read the Privacy Policy here: https://useownmyfor.github.io/KWeather/privacy.html
 
 
