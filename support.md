@@ -9,13 +9,11 @@ If you have any questions, find a bug, or would like to suggest a new feature, I
 
 ## Frequently Asked Questions
 
-**Q: Where does KWeather get its weather data?\n**
-
+Q: Where does KWeather get its weather data?
 A: KWeather uses official weather data provided through the Korea Meteorological Administration (KMA) Open API.
 
 
-**Q: Does KWeather track my location?**
-
+Q: Does KWeather track my location?
 A: No. KWeather does not collect or track your live GPS location. You simply select your city from the built-in offline database.
 
 ## Privacy Policy
