@@ -9,7 +9,7 @@ If you have any questions, find a bug, or would like to suggest a new feature, I
 
 ## Frequently Asked Questions
 
-**Q: Where does KWeather get its weather data?**
+**Q: Where does KWeather get its weather data?\n**
 
 A: KWeather uses official weather data provided through the Korea Meteorological Administration (KMA) Open API.
 
