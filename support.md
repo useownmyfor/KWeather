@@ -15,7 +15,7 @@ A: KWeather uses official weather data provided through the Korea Meteorological
 
 **Q: Does KWeather track my location?**
 
-A: No. KWeather does not collect or track your live GPS location. You simply select your city or weather station from the built-in offline database.
+A: No. KWeather does not collect or track your live GPS location. You simply select your city from the built-in offline database.
 
 ## Privacy Policy
 
